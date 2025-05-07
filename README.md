@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! Here's a quick overview of the technologies, tools, and platforms I work with:
 
-## 🧠 Languages
+# 🧠 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
