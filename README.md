@@ -1,5 +1,5 @@
 
-# 🚀 Full Stack Developer Tech Stack
+# 🚀 My Tech Stack
 
 Welcome to my GitHub profile! Below is a comprehensive list of technologies, frameworks, tools, and platforms that I use in my projects.
 
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! Below is a comprehensive list of technologies, fra
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pahitharandilakshan@gmail.com)
 
---
+
 
 
 
