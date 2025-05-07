@@ -37,14 +37,6 @@ Welcome to my GitHub profile! Here's a snapshot of the technologies, tools, and 
 
 ## 📫 Let's Connect
 
-* GitHub: [yourusername](https://github.com/yourusername)
-* Portfolio: [yourwebsite.com](https://yourwebsite.com)
-* LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
-makr this more proffesional add icons for social medias
-
-## 📫 Let's Connect
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
