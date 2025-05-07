@@ -52,7 +52,7 @@ Welcome to my GitHub profile! Below is a comprehensive list of technologies, fra
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pahitharandilakshan@gmail.com)
 
 ---
 
