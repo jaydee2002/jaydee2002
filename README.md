@@ -48,7 +48,7 @@ Welcome to my GitHub profile! Below is a comprehensive list of technologies, fra
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 
-
+<div style="text-align: center;">
 
 ## 📫 Let's Connect
 
@@ -58,6 +58,6 @@ Welcome to my GitHub profile! Below is a comprehensive list of technologies, fra
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pahitharandilakshan@gmail.com)
 
 
-
+</div>
 
 
